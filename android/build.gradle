@@ -18,5 +18,5 @@ android {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.baidu.mobstat:mtj-sdk:latest.integration'
+    compile 'com.baidu.mobstat:mtj-sdk-circle:latest.integration'
 }
